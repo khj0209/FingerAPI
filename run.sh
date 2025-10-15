@@ -10,5 +10,5 @@ echo "[+] Starting API server..."
 python backend/main.py &
 sleep 2
 
-echo "[+] Starting serial listener..."
+# echo "[+] Starting serial listener..."
 # python serial_listener/listener.py
